@@ -33,5 +33,5 @@ app.get("*", (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`listing the port number is ${port}`)
+    console.log(`listing the port is number is ${port}`)
 })
